@@ -36,8 +36,4 @@ The data has been sourced from CognoRise and processed using Microsoft Excel to 
 ## Using Filter
 ![Screenshot-2](https://github.com/user-attachments/assets/ab86ba6d-a9dd-4429-b295-e24d3585cd0e)
 
-# Contact
-## For questions, suggestions, or feedback, feel free to contact me:
 
-### Email: ravishrivastav.da@gmail.com
-### LinkedIn: https://www.linkedin.com/in/ravi-shrivastav-5859b0246/
